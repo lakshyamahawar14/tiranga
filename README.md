@@ -1,2 +1,1 @@
-# tiranga
-Indian Flag Using Python Turtle
+# Indian Flag Tiranga Using Python Turtle
